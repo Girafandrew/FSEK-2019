@@ -10,7 +10,7 @@ cor = ColorSensor('in2')
 cor2 = ColorSensor('in4')
 ir = InfraredSensor('in1')
 #us2 = UltrasonicSensor('in3')
-
+#HERE
 cor.mode = 'COL-COLOR'
 cor2.mode = 'COL-COLOR'
 ir.mode = 'IR-PROX'
